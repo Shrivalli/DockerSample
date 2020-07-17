@@ -1,0 +1,14 @@
+G:\CTS Data\Stage IV\DockerSample\DockerSample\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\CTS Data\Stage IV\DockerSample\DockerSample\bin\Debug\netcoreapp3.1\appsettings.json
+G:\CTS Data\Stage IV\DockerSample\DockerSample\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\CTS Data\Stage IV\DockerSample\DockerSample\bin\Debug\netcoreapp3.1\DockerSample.deps.json
+G:\CTS Data\Stage IV\DockerSample\DockerSample\bin\Debug\netcoreapp3.1\DockerSample.runtimeconfig.json
+G:\CTS Data\Stage IV\DockerSample\DockerSample\bin\Debug\netcoreapp3.1\DockerSample.runtimeconfig.dev.json
+G:\CTS Data\Stage IV\DockerSample\DockerSample\bin\Debug\netcoreapp3.1\DockerSample.dll
+G:\CTS Data\Stage IV\DockerSample\DockerSample\obj\Debug\netcoreapp3.1\DockerSample.csprojAssemblyReference.cache
+G:\CTS Data\Stage IV\DockerSample\DockerSample\obj\Debug\netcoreapp3.1\DockerSample.AssemblyInfoInputs.cache
+G:\CTS Data\Stage IV\DockerSample\DockerSample\obj\Debug\netcoreapp3.1\DockerSample.AssemblyInfo.cs
+G:\CTS Data\Stage IV\DockerSample\DockerSample\obj\Debug\netcoreapp3.1\DockerSample.RazorTargetAssemblyInfo.cache
+G:\CTS Data\Stage IV\DockerSample\DockerSample\obj\Debug\netcoreapp3.1\staticwebassets\DockerSample.StaticWebAssets.Manifest.cache
+G:\CTS Data\Stage IV\DockerSample\DockerSample\obj\Debug\netcoreapp3.1\staticwebassets\DockerSample.StaticWebAssets.xml
+G:\CTS Data\Stage IV\DockerSample\DockerSample\obj\Debug\netcoreapp3.1\DockerSample.genruntimeconfig.cache
