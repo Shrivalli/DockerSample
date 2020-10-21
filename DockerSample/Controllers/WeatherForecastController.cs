@@ -11,9 +11,10 @@ namespace DockerSample.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
+        //Comments added
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild","new","style", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
